@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+.venv/
+build/
+dist/
+sdist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+!**/__init__.py
+
+# Environments
+.env
+.venv
+venv
+ENV
+env.bak
+venv.bak
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Others
+*.log
+*.swp
+*.tmp
+my_db.db
